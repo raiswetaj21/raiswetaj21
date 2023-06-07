@@ -41,4 +41,7 @@ Feel free to explore my repositories and let's connect to collaborate on excitin
 
 ![Banner Image](https://github.com/raiswetaj21/raiswetaj21/blob/ac0eeb7a3a06b561cfd33f5729a119a8c03ecd3c/Coder.jpg)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=raiswetaj21.raiswetaj21)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiswetaj21&show_icons=true&theme=tokyonight)](https://github.com/raiswetaj21/github-readme-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=raiswetaj21)
+
