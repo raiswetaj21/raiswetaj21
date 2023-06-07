@@ -1,16 +1,40 @@
-### Hi there 👋
+![Banner Image](/path/to/banner-image.png)
 
-<!--
-**raiswetaj21/raiswetaj21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Sweta Rai, a huge Data enthusiast. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- 🔭 I’m currently working on various TSF Tasks
+- 🌟 I'm passionate about technology
+- 🎓 I have a background in IT majorly into Data Science domain
+- 💡 I love to explore new technologies and try my hands into working on new projects
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Python, Java
+- Frameworks & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Databases: Microsoft SQL, MySQL
+- Tools & Software: Jupyter Notebook, Visual Studio Code, Tableau, PowerBI
+
+## 🌐 Find Me
+
+You can find me on the web:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raisweta21/)
+- 📝 [Kaggle](https://www.kaggle.com/misswhite2104)
+
+## 📚 My Goals
+
+- Continue to learn new technologies and programming languages.
+- Build innovative products that make a difference in the world.
+- Become a leading expert in my field.
+
+## 📫 Contact Me
+
+You can reach out to me on Discord @MissWhite21.4
+
+Feel free to explore my repositories and let's connect to collaborate on exciting projects!
