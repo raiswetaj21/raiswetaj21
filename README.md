@@ -40,3 +40,5 @@ You can reach out to me on Discord @MissWhite21.4
 Feel free to explore my repositories and let's connect to collaborate on exciting projects!
 
 ![Banner Image](https://github.com/raiswetaj21/raiswetaj21/blob/ac0eeb7a3a06b561cfd33f5729a119a8c03ecd3c/Coder.jpg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raiswetaj21.raiswetaj21)
