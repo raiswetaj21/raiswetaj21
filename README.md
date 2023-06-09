@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 - Frameworks & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 - Databases: Microsoft SQL, MySQL
 - Tools & Software: Jupyter Notebook, Visual Studio Code, Tableau, PowerBI
-- Cloud Computing Platforms: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform(GCP)
+- Cloud Computing Platforms: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
 ## 🌐 Find Me
 
