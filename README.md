@@ -15,7 +15,7 @@ I'm Sweta Rai, a huge Data enthusiast. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
-<img align="right" alt="Image" width="450" src="https://github.com/raiswetaj21/raiswetaj21/blob/ac0eeb7a3a06b561cfd33f5729a119a8c03ecd3c/Coder.jpg">
+<img align="right" alt="Image" width="400" src="https://github.com/raiswetaj21/raiswetaj21/blob/ac0eeb7a3a06b561cfd33f5729a119a8c03ecd3c/Coder.jpg">
 
 Here are some of the technologies and tools I work with:
 
